@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "Umoments"]
 	path = Umoments
-	url = https://github.com/cran/Umoments
+	url = https://github.com/innager/umoments
